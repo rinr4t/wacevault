@@ -3,6 +3,7 @@ This Github repositry contains many resources relevant to WACE. This includes pa
 This repositry currently includes the following subjects:
 - Maths Methods (AEMAM & ATMAM)
 - Maths Specialist (AEMAS & ATMAS)
+- Physics (AEPHY % ATPHY)
 <br><br><br><br>
 If you have any queries or concerns, or would like to contribute files, please contact us at suspiciouslyinteresting [at] proton [dot] me
 
