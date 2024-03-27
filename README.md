@@ -6,5 +6,5 @@ This repositry currently includes the following subjects:
 - Physics (AEPHY & ATPHY)
 - Chemistry - Incomplete (AECHE only)
 <br><br><br><br>
-If you have any queries or concerns, or would like to contribute files, please contact us at suspiciouslyinteresting [at] proton [dot] me
+If you have any queries or concerns, or would like to contribute files, please contact us at suspiciouslyinteresting@proton.me
 
