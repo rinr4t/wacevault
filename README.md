@@ -5,6 +5,11 @@ This repositry currently includes the following subjects:
 - Maths Specialist (AEMAS & ATMAS)
 - Physics (AEPHY & ATPHY)
 - Chemistry (AECHE & ATCHE)
-<br><br><br><br>
+<br><br>
+
+If you want to download only a specific folder, you can use this link: https://download-directory.github.io. We are not connected to this project, but it makes downloading these resources much easier.
+
+
+<br><br>
 If you have any queries or concerns, or would like to contribute files, please contact us at suspiciouslyinteresting@proton.me. We are especially looking for papers from 2023.
 
